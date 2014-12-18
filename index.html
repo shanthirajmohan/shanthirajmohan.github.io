@@ -35,5 +35,10 @@
     <script src="js/libs/ember-1.7.0.js"></script>
     <script src="js/libs/ember-data.js"></script>
     <script src="js/application.js"></script>
+    <script src="js/router.js"></script>
+    <script src="js/models.js"></script>
+    <script src="js/fixtures.js"></script>
+    <script src="js/controllers.js"></script>
+    <script src="js/routes.js"></script>
   </body>
 </html>
